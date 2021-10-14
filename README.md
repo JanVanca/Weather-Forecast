@@ -6,6 +6,6 @@ In the evening after 19:00, the background image for the night will change autom
 
 Background image was created by Steven Telfer available on [page](https://dribbble.com/shots/5569453-Weather-App/attachments). 
 
-## Screenshoot
+## Screenshoots
 ![preview](/src/images/weather_app01.png)
 ![preview](/src/images/weather_app02.png)
